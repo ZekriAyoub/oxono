@@ -29,7 +29,7 @@ Pour utiliser l'application, suivez les étapes suivantes :
    ```      
 4. Démarrez l'application en exécutant la commande :  
    ```bash
-  mvn exec:java "-Dexec.mainClass=g63551.dev3.oxono.Main"
+   mvn exec:java "-Dexec.mainClass=g63551.dev3.oxono.Main"
    ```
 
 ## Aperçu de l'application
@@ -39,3 +39,6 @@ Pour utiliser l'application, suivez les étapes suivantes :
 
 ### Plateau de jeu
 ![Tableau](assets/Plateau.png)
+
+### En pleine partie
+![Partie](assets/Jeu.png)
